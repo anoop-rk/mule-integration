@@ -206,4 +206,6 @@
 |*Anypoint Security*|https://docs.mulesoft.com/anypoint-security/|
 
 ## Others
+| Title      | Link |
+| ----------- | ----------- |
 |*Database Connection Pool*|https://help.mulesoft.com/s/article/Connection-pooling-for-the-Database-Connector|
