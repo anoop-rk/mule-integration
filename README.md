@@ -204,6 +204,13 @@
 |*FIPS 140-2 Compliance Support*|https://docs.mulesoft.com/mule-runtime/4.3/fips-140-2-compliance-support|
 |*Applying Automated Policies: Conflict Management*|https://docs.mulesoft.com/api-manager/2.x/automated-policy-apply#conflict-management|
 |*Anypoint Security*|https://docs.mulesoft.com/anypoint-security/|
+|*Escalate Policy Violations as Errors to DoS*|https://docs.mulesoft.com/anypoint-security/dos-policy#escalate-policy-violations-as-errors|
+|*Tokenization*|https://docs.mulesoft.com/anypoint-security/tokenization|
+|*Cryptography Module*|https://docs.mulesoft.com/mule-runtime/4.4/cryptography|
+|*PGP Cryptography*|https://docs.mulesoft.com/mule-runtime/4.4/cryptography-pgp|
+|*XML Cryptography*|https://docs.mulesoft.com/mule-runtime/4.4/cryptography-xml|
+|*JCE Cryptography*|https://docs.mulesoft.com/mule-runtime/4.4/cryptography-jce|
+|*Crypto (dw::Crypto)*|https://docs.mulesoft.com/dataweave/2.4/dw-crypto|
 
 ## Others
 | Title      | Link |
