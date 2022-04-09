@@ -1,5 +1,20 @@
 # Module Links
 
+## General
+| Title      | Link |
+| ----------- | ----------- |
+|*Mule Runtime Server*|https://www.mulesoft.com/lp/dl/mule-esb-enterprise|
+|*MCIA Certification*|https://training.mulesoft.com/certification/architect-integration-level1 
+|*Training & Certification downloads page*|https://training.mulesoft.com/downloads|
+|*Certification Datasheet*|https://training.mulesoft.com/oltpublish/cmsres/downloads/MCIA_level1_datasheet.pdf|
+|*New Anypoint Platform Account*https://anypoint.mulesoft.com/login/signup|
+|*Advanced Rest Client*https://github.com/advanced-rest-client/arc-electron|
+|*Courses*|https://training.mulesoft.com/course-catalog| 
+|*Visual VM download*|https://visualvm.github.io/download.html|
+|*Architecture Quiz*|https://training.mulesoft.com/course/architecture-integration-solutions/quiz-diy|
+|*Online Exam Preparation Kit*|https://help.learn.mulesoft.com/hc/en-us/articles/360057127674-MuleSoft-Exam-Readiness-Kit|
+
+
 ## Module 1: Introducing integration solutions architecture
 | Title      | Link |
 | ----------- | ----------- |
