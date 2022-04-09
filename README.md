@@ -1,12 +1,29 @@
 # Module Links
 
+## Module 1: Introducing integration solutions architecture
+| Title      | Link |
+| ----------- | ----------- |
+|*Knowledge Hub*|https://knowledgehub.mulesoft.com|
+|*4+1 architectural view model*|https://en.wikipedia.org/wiki/4%2B1_architectural_view_model|
+|*The C4 model*|https://c4model.com/|
+|*Archimate*|https://www.opengroup.org/archimate-forum/archimate-overview|
+|*Archimate*|https://www.archimatetool.com/download/|
+|*UML*|https://staruml.io/|
+|*Draw.io*|https://draw.io/|
+|*Lucidchart*|https://www.lucidchart.com/|
+
 ## Module 2: Identifying Anypoint Platform components and capabilities
 | Title      | Link |
 | ----------- | ----------- |
 |*Asset Types - Exchange*|https://docs.mulesoft.com/exchange/asset-types|
+|*REST API Portal Example*|https://anypoint.mulesoft.com/exchange/68ef9520-24e9-4cf2-b2f5-620025690913/covid19-data-tracking-api/minor/3.0/|
+|*Semantic Versioning*|https://semver.org/|
 |*Add Behavioral Headers to Simulated API Calls*|https://docs.mulesoft.com/design-center/apid-behavioral-headers|
 |*Async API*|https://www.asyncapi.com/docs/getting-started|
 |*Event-Driven API*|https://docs.mulesoft.com/release-notes/platform/event-driven-api|
+|*Mule Domain Projects*|https://docs.mulesoft.com/mule-runtime/4.3/shared-resources|
+|*Thru MFT Connector - Mule 4*|https://anypoint.mulesoft.com/exchange/org.mule.modules/thru-transport-connector/minor/2.1/|
+|*Cron Expression Generator*|https://www.freeformatter.com/cron-expression-generator-quartz.html|
 
 ## Module 3: Designing integration solutions using Mule applications
 | Title      | Link |
@@ -23,18 +40,29 @@
 |*Database Connector Examples*|https://docs.mulesoft.com/db-connector/1.12/database-connector-examples|
 |*Database Execute Script*|https://docs.mulesoft.com/db-connector/1.12/database-execute-script|
 |*System Errors*|https://docs.mulesoft.com/mule-runtime/4.4/error-handling#system_errors|
+|*Scatter-Gather Router*|https://docs.mulesoft.com/mule-runtime/4.4/scatter-gather-concept|
+|*Scatter-Gather Pattern*|https://www.enterpriseintegrationpatterns.com/patterns/messaging/BroadcastAggregate.html|
 
 ## Module 4: Choosing appropriate Mule 4 event processing models
 | Title      | Link |
 | ----------- | ----------- |
+|*The Reactive Manifesto*|https://www.reactivemanifesto.org/|
 |*New foundations for high scalability in Mule 4*|https://www.mulesoft.com/lp/whitepaper/api/reactive-programming|
 |*Execution Engine*|https://docs.mulesoft.com/mule-runtime/4.3/execution-engine|
 |*ReactiveX*|https://reactivex.io/|
 |*Project Reactor*|https://projectreactor.io/|
 |*RxJava*|https://github.com/ReactiveX/RxJava|
 |*Reactive Programming example*|https://livebook.manning.com/book/rx-dot-net-in-action/chapter-1/24|
+|*Improved threading model in Mule 4.3*|https://blogs.mulesoft.com/news/anypoint-platform/threading-model-in-mule-4-3/|
+|*Thread management and auto-tuning in Mule 4*|https://blogs.mulesoft.com/dev-guides/how-to-tutorials/thread-management-auto-tuning-mule-4/|
+|*Representational State Transfer - Roy Fielding*|https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm|
+|*SOAP Extensions*|https://en.wikipedia.org/wiki/List_of_web_service_specifications|
+|*Amazon SQS*|https://aws.amazon.com/sqs/|
+|*SQS Connector*|https://docs.mulesoft.com/amazon-sqs-connector/5.11/|
 |*Anypoint MQ*|https://docs.mulesoft.com/mq/|
 |*Anypoint MQ - Configure Queues*|https://docs.mulesoft.com/mq/mq-queues|
+|*Dead letter queue*|https://en.wikipedia.org/wiki/Dead_letter_queue|
+|*CloudHub Persistent Queues Explained*|https://help.mulesoft.com/s/article/CloudHub-Persistent-Queues-Explained|
 |*Load Balancing VM Queues*|https://docs.mulesoft.com/mule-runtime/4.4/mule-high-availability-ha-clusters#queues|
 |*Streaming in Mule Apps*|https://docs.mulesoft.com/mule-runtime/4.4/streaming-about|
 |*For Each Scope*|https://docs.mulesoft.com/mule-runtime/4.4/for-each-scope-concept|
@@ -45,12 +73,20 @@
 | Title      | Link |
 | ----------- | ----------- |
 |*Munit*|https://docs.mulesoft.com/munit/2.3/|
+|*Munit Matchers*|https://docs.mulesoft.com/munit/2.3/munit-matchers|
+|*Munit Tutorials*|https://developer.mulesoft.com/tutorials-and-howtos| 
+|*MUnit Maven Plugin*|https://docs.mulesoft.com/munit/2.3/munit-maven-plugin| 
+|*Running collections on the command line with Newman*|https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/|
+|*BAT Install*|https://docs.mulesoft.com/api-functional-monitoring/bat-install-task|
+|*Functional Monitoring*|https://docs.mulesoft.com/api-functional-monitoring/|
 
 
 ## Module 7: Choosing and developing a deployment strategy
 | Title      | Link |
 | ----------- | ----------- |
 |*Anypoint Hosting Options*|https://docs.mulesoft.com/general/intro-platform-hosting|
+|*PCE Private Cloud Edition*|https://docs.mulesoft.com/private-cloud/3.0/|
+|*Product Support and Maintenance Terms*|https://www.mulesoft.com/legal/support-maintenance-terms|
 |*Runtime Manager Agent API*|https://docs.mulesoft.com/runtime-manager/runtime-manager-agent-api|
 |*ARM Mule Agent Plugin API*|https://anypoint.mulesoft.com/exchange/portals/anypoint-platform/f1e97bc6-315a-4490-82a7-23abe036327a.anypoint-platform/mule-agent-plugin-api/|
 |*ARM REST Services*|https://anypoint.mulesoft.com/exchange/portals/anypoint-platform/f1e97bc6-315a-4490-82a7-23abe036327a.anypoint-platform/arm-rest-services/|
@@ -64,6 +100,7 @@
 |*Log Levels Apache*|https://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/Level.html|
 |*Log Levels*|https://stackoverflow.com/a/37167120|
 |*Log4J Appenders*|https://logging.apache.org/log4j/2.x/manual/appenders.html|
+|*Log4J2 with Splunk Example*|https://github.com/splunk/splunk-library-javalogging/blob/main/src/test/resources/log4j2.xml|
 |*Performance Tuning for Logging*|https://docs.mulesoft.com/mule-runtime/4.4/tuning-logging|
 |*Configuring Logging*|https://docs.mulesoft.com/mule-runtime/4.4/logging-in-mule|
 |*Custom Log Cloudhub Appender*|https://docs.mulesoft.com/runtime-manager/custom-log-appender|
