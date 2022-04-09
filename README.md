@@ -7,8 +7,8 @@
 |*MCIA Certification*|https://training.mulesoft.com/certification/architect-integration-level1 
 |*Training & Certification downloads page*|https://training.mulesoft.com/downloads|
 |*Certification Datasheet*|https://training.mulesoft.com/oltpublish/cmsres/downloads/MCIA_level1_datasheet.pdf|
-|*New Anypoint Platform Account*https://anypoint.mulesoft.com/login/signup|
-|*Advanced Rest Client*https://github.com/advanced-rest-client/arc-electron|
+|*New Anypoint Platform Account*|https://anypoint.mulesoft.com/login/signup|
+|*Advanced Rest Client*|https://github.com/advanced-rest-client/arc-electron|
 |*Courses*|https://training.mulesoft.com/course-catalog| 
 |*Visual VM download*|https://visualvm.github.io/download.html|
 |*Architecture Quiz*|https://training.mulesoft.com/course/architecture-integration-solutions/quiz-diy|
