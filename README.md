@@ -242,6 +242,7 @@
 |*Tweak Heap Memory - VM Arguments*|https://help.mulesoft.com/s/article/Increasing-JVM-memory-heap-in-Anypoint-Studio-to-avoid-OutOfMemory-issues|
 |*On-Premise (Hybrid) Runtime is Having Performance Issues Caused by CPU or Memory Shortage*|https://help.mulesoft.com/s/article/On-Premise-Hybrid-Runtime-is-Having-Performance-Issues-Caused-by-CPU-or-Memory-Shortage|
 |*Concurrent Mark-Sweep use-case*|https://blogs.mulesoft.com/dev-guides/how-to-tutorials/performance-choke/|
+|*Garbage Collection - Java*|https://www.youtube.com/watch?v=UnaNQgzw4zY|
 |*Best Practises for tuning Mule*|https://blogs.mulesoft.com/dev-guides/how-to-tutorials/best-practices-for-tuning-mule/|
 |*Pooling Profiles*|https://docs.mulesoft.com/mule-runtime/4.4/tuning-pooling-profiles|
 |*Database Pooling Profile*|https://docs.mulesoft.com/db-connector/1.12/database-documentation#pooling-profile|
