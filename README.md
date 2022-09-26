@@ -37,7 +37,9 @@
 |*Async API*|https://www.asyncapi.com/docs/getting-started|
 |*Event-Driven API*|https://docs.mulesoft.com/release-notes/platform/event-driven-api|
 |*Mule Domain Projects*|https://docs.mulesoft.com/mule-runtime/4.3/shared-resources|
-|*Thru MFT Connector - Mule 4*|https://anypoint.mulesoft.com/exchange/org.mule.modules/thru-transport-connector/minor/2.1/|
+|*Universal API Management*|https://www.mulesoft.com/resources/api/what-is-universal-api-management|
+|*Universal API Management Blog*|https://blogs.mulesoft.com/news/introducing-universal-api-management-on-anypoint-platform/|
+|*Anypoint Flex Gateway*|https://www.mulesoft.com/platform/api/flex-api-gateway|
 |*Cron Expression Generator*|https://www.freeformatter.com/cron-expression-generator-quartz.html|
 
 ## Module 3: Designing integration solutions using Mule applications
@@ -50,6 +52,7 @@
 |*Configure Shared Libraries*|https://docs.mulesoft.com/mule-runtime/4.4/mmp-concept#configure-shared-libraries|
 |*Export Resources*|https://docs.mulesoft.com/mule-runtime/4.4/how-to-export-resources|
 |*Class Loading Isolation Well Explained*|https://www.youtube.com/watch?v=ahmwBdV8TS4|
+|*Thru MFT Connector - Mule 4*|https://anypoint.mulesoft.com/exchange/org.mule.modules/thru-transport-connector/minor/2.1/|
 |*Load Static Resource*|https://docs.mulesoft.com/http-connector/1.6/http-load-static-res-task|
 |*Basic Security Filter*|https://docs.mulesoft.com/http-connector/1.6/http-documentation#basicSecurityFilter|
 |*Database Connector Examples*|https://docs.mulesoft.com/db-connector/1.12/database-connector-examples|
