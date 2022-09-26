@@ -117,11 +117,11 @@
 | *Audit Log Query API* | https://anypoint.mulesoft.com/exchange/portals/anypoint-platform/f1e97bc6-315a-4490-82a7-23abe036327a.anypoint-platform/audit-log-query-api/|
 |*Log Levels Apache*|https://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/Level.html|
 |*Log Levels*|https://stackoverflow.com/a/37167120|
-|*Log4J Appenders*|https://logging.apache.org/log4j/2.x/manual/appenders.html|
 |*Log4J2 with Splunk Example*|https://github.com/splunk/splunk-library-javalogging/blob/main/src/test/resources/log4j2.xml|
 |*Performance Tuning for Logging*|https://docs.mulesoft.com/mule-runtime/4.4/tuning-logging|
 |*Configuring Logging*|https://docs.mulesoft.com/mule-runtime/4.4/logging-in-mule|
-|*Custom Log Cloudhub Appender*|https://docs.mulesoft.com/runtime-manager/custom-log-appender|
+|*Custom Log Cloudhub Appender*|https://docs.mulesoft.com/runtime-manager/custom-log-appender|![Uploading image.png…]()
+|*Custom Agents*|https://docs.mulesoft.com/mule-runtime/3.9/mule-agents#creating-custom-agents|
 |*MDC Logging*|https://docs.mulesoft.com/mule-runtime/4.4/logging-mdc|
 |*Pattern Layout Configurations*|https://blogs.mulesoft.com/dev-guides/how-to-tutorials/mulesoft-development-mule-4-logging/|
 |*Cloudhub API*|https://docs.mulesoft.com/runtime-manager/cloudhub-api|
@@ -139,6 +139,7 @@
 |*Create a Custom Dashboard*|https://docs.mulesoft.com/monitoring/create-custom-dashboard|
 |*Alerts*|https://docs.mulesoft.com/monitoring/alerts|
 |*Logs*|https://docs.mulesoft.com/monitoring/logs|
+|*Log Tokenization*|https://docs.mulesoft.com/monitoring/log-tokenization|
 |*Log Points*|https://docs.mulesoft.com/monitoring/log-points|
 |*Custom Metrics*|https://docs.mulesoft.com/monitoring/anypoint-custom-metrics-connector|
 |*Anypoint Custom Metrics Connector Reference*|https://docs.mulesoft.com/custom-metrics-connector/2.2/custom-metrics-connector-reference|
