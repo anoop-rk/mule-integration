@@ -142,6 +142,8 @@
 |*Log Tokenization*|https://docs.mulesoft.com/monitoring/log-tokenization|
 |*Log Points*|https://docs.mulesoft.com/monitoring/log-points|
 |*Custom Metrics*|https://docs.mulesoft.com/monitoring/anypoint-custom-metrics-connector|
+|*Custom Metrics Example*|https://www.youtube.com/watch?v=lNPZLrR-DT8|
+|*Custom Metrics Example*|https://videos.mulesoft.com/watch/NMQPaREDqsegVVnz43VejM|
 |*Anypoint Custom Metrics Connector Reference*|https://docs.mulesoft.com/custom-metrics-connector/2.2/custom-metrics-connector-reference|
 |*Insight*|https://docs.mulesoft.com/runtime-manager/insight|
 |*Business Events*|https://docs.mulesoft.com/mule-runtime/4.4/business-events|
@@ -150,6 +152,7 @@
 |*Functional Monitoring*|https://docs.mulesoft.com/api-functional-monitoring/afm-in-anypoint-platform|
 |*Health Check Endpoints*|https://blogs.mulesoft.com/dev-guides/how-to-tutorials/how-to-check-service-health/|
 |*API Functional Monitoring with the Blackbox Automated Testing (BAT) CLI*|https://docs.mulesoft.com/api-functional-monitoring/bat-top|
+|*BAT CLI Test Suite Example*|https://docs.mulesoft.com/api-functional-monitoring/bat-example-test-suite|
 |*Monitoring the Endpoints of Public APIs*|https://docs.mulesoft.com/api-functional-monitoring/afm-monitoring-public-apis|
 |*Monitoring the Endpoints of Private APIs*|https://docs.mulesoft.com/api-functional-monitoring/afm-monitoring-private-apis|
 |*Api Manager - Analytics*|https://docs.mulesoft.com/api-manager/2.x/analytics-landing-page|
