@@ -114,6 +114,7 @@
 | ----------- | ----------- |
 |*Create and Manage a Cluster Manually*|https://docs.mulesoft.com/mule-runtime/4.4/creating-and-managing-a-cluster-manually|
 |*Quorum Management*|https://docs.mulesoft.com/mule-runtime/4.4/creating-and-managing-a-cluster-manually#quorum-management|
+|*JDBC to Cluster (Object-Store Persistance)*|https://docs.mulesoft.com/mule-runtime/4.4/creating-and-managing-a-cluster-manually#object-store-persistence|
 
 ## Module 9: Designing effective logging and monitoring
 
