@@ -109,6 +109,12 @@
 |*ARM Mule Agent Plugin API*|https://anypoint.mulesoft.com/exchange/portals/anypoint-platform/f1e97bc6-315a-4490-82a7-23abe036327a.anypoint-platform/mule-agent-plugin-api/|
 |*ARM REST Services*|https://anypoint.mulesoft.com/exchange/portals/anypoint-platform/f1e97bc6-315a-4490-82a7-23abe036327a.anypoint-platform/arm-rest-services/|
 
+## Module 8: Designing with appropriate state preservation and management options
+| Title      | Link |
+| ----------- | ----------- |
+|*Create and Manage a Cluster Manually*|https://docs.mulesoft.com/mule-runtime/4.4/creating-and-managing-a-cluster-manually|
+|*Quorum Management*|https://docs.mulesoft.com/mule-runtime/4.4/creating-and-managing-a-cluster-manually#quorum-management|
+
 ## Module 9: Designing effective logging and monitoring
 
 | Title      | Link |
