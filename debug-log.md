@@ -1,4 +1,4 @@
-# Verboose Logging
+# Verbose Logging
 
 | Title      | Link |
 | ----------- | ----------- |
@@ -15,3 +15,5 @@
 |*Anypoint Connector for Anypoint MQ*|com.mulesoft.extension.mq, com.mulesoft.mq|
 |*Anypoint Connector for Database*|org.mule.extension.db|
 |*Anypoint Connector for Microsoft SharePoint (version 3.x)*|org.apache.http.wire, org.apache.http|
+|*Hikari Datasource *|com.zaxxer.hikari|
+
